@@ -8,4 +8,4 @@ Desarrolador Backend en Formacion, Javascript y Python
 | :------------ |:---------------:| --------------:| ---------------:|---------------:|
 | Terminal     | NodeJs | Express | MongoDb | JWT| 
 | GIt y Github      |Python        |   django | Mysql | Oauth2.0 |
-|         :fa-check:             |    :fa-check:                     |    Nestjs | PostgreSQL |:fa-check:  |
+|                     |                        |    Nestjs | PostgreSQL |  |
